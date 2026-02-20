@@ -22,7 +22,7 @@ This repository contains the experimental data, analysis code, and detailed meth
 - Language: 
 
 ### 3. Methods (`/methods`)
-https://github.com/emiko-sh/eye-hand-coordination-2026/blob/main/methods/supple%20methods%2020260220.pdf  
+https://github.com/emiko-sh/eye-hand-coordination-2026/blob/main/methods/supple%20methods%2020260220b.pdf  
 A detailed description of the experimental setup, participants, and data processing pipeline.
 
 ---
