@@ -22,13 +22,13 @@ This repository contains the experimental data, analysis code, and detailed meth
 - Language: 
 
 ### 3. Methods (`/methods`)
-**[supplemethods20260220.pdf](https://github.com/emiko-sh/eye-hand-coordination-2026/blob/main/methods/supplemethods20260620.pdf)**: 
+https://github.com/emiko-sh/eye-hand-coordination-2026/blob/main/methods/supple%20methods%2020260220.pdf  
 A detailed description of the experimental setup, participants, and data processing pipeline.
 
 ---
 
 ## Citation
-If you use this dataset or code, please cite my paper:
+If you use this dataset or code, please cite my paper:  
 Shishido, E. (2026). Beyond Expertise: Stable Individual Differences in Predictive Eye–Hand Coordination.
 arXiv:2602.07816. https://arxiv.org/abs/2602.07816
 
