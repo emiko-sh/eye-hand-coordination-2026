@@ -28,7 +28,7 @@ A detailed description of the experimental setup, participants, and data process
 ---
 
 ## Citation
-If you use this dataset or code, please cite our paper:
+If you use this dataset or code, please cite my paper:
 Shishido, E. (2026). Beyond Expertise: Stable Individual Differences in Predictive Eye–Hand Coordination.
 arXiv:2602.07816. https://arxiv.org/abs/2602.07816
 
