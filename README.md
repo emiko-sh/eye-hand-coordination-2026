@@ -1,7 +1,7 @@
 # Supplementary materials for:
 # "Beyond Expertise: Stable Individual Differences in Predictive Eye–Hand Coordination"
 
-**Author:** Emiko Shishido Higashijima  
+**Author:** Emiko Shishido  
 **Affiliation:** National Institute for Physiological Sciences, Okazaki, 444-8585, JAPAN  
 **Status:** arXiv:2602.07816. https://arxiv.org/abs/2602.07816
 **Full text link:**  https://arxiv.org/pdf/2602.07816
