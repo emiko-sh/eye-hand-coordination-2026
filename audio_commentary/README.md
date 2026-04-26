@@ -1,10 +1,10 @@
 # 音声解説（Audio Commentary）
-
-この音声ファイルは、論文  
-**「Beyond Expertise: Stable Individual Differences in Predictive Eye–Hand Coordination（専門性を超えて：予測的な視線と手の協調における安定した個人差）」**  
-https://arxiv.org/abs/2602.07816
+この音声ファイルは、**"Beyond Expertise: Stable Individual Differences in Predictive Eye–Hand Coordination"**  
+**（専門性を超えて：予測的な視線と手の協調における安定した個人差）**  
+https://arxiv.org/abs/2602.07816  
 https://arxiv.org/pdf/2602.07816  
-の内容を、AIが解説したものです。
+この論文の内容を、AIが日本語で解説したものです。👇  
+https://github.com/emiko-sh/eye-hand-coordination-2026/blob/main/audio_commentary/japanese.zip  
 
 ### 背景と目的  
 人間が線をなぞるような動作を行う際、視線は通常、手の動きを先取り（予測）します。この研究では、書道の専門家と非専門家を対象とした実験を通じて、この「予測のタイミング」が経験やスキルによって変化するのか、それとも個人固有の特性なのかを調査しました。
@@ -26,17 +26,17 @@ https://arxiv.org/pdf/2602.07816
 # Audio Commentary Overview
 This audio commentary provides an in-depth explanation of the research paper "Beyond Expertise: Stable Individual Differences in Predictive Eye–Hand Coordination."
 The commentary covers the following key scientific insights:
-The Concept of "Predictive Protocols": While humans generally use their eyes to lead their hands during tasks like line tracing, each individual possesses a unique and stable "predictive window" (the timing by which the gaze anticipates future hand movement)
-.
+The Concept of "Predictive Protocols": While humans generally use their eyes to lead their hands during tasks like line tracing, each individual possesses a unique and stable "predictive window" (the timing by which the gaze anticipates future hand movement).  👇  
+https://github.com/emiko-sh/eye-hand-coordination-2026/blob/main/audio_commentary/english.m4a  
+  
 ### Stability Over Expertise:   
-These predictive timings (SD–PS peak times) range from -50 to 400 ms across individuals but remain remarkably consistent for each person regardless of their training history
-. The study found no significant difference between professional calligraphers and non-experts in these predictive parameters
-.
+These predictive timings (SD–PS peak times) range from -50 to 400 ms across individuals but remain remarkably consistent for each person regardless of their training history. The study found no significant difference between professional calligraphers and non-experts in these predictive parameters.  
+  
 ### Independence from Accuracy:   
-An individual's specific predictive strategy does not correlate with their tracing precision, suggesting that the brain's motor control system tolerates diverse idiosyncratic strategies as long as the task goal is achieved (Minimum Intervention Principle)
-.
+An individual's specific predictive strategy does not correlate with their tracing precision, suggesting that the brain's motor control system tolerates diverse idiosyncratic strategies as long as the task goal is achieved (Minimum Intervention Principle).
 ### Internal Forward Models:   
-The findings suggest that these protocols are intrinsic behavioral signatures shaped by individual neuromotor constraints and internal forward models rather than acquired skills
+  
+The findings suggest that these protocols are intrinsic behavioral signatures shaped by individual neuromotor constraints and internal forward models rather than acquired skills.
   
   
   
