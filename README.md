@@ -19,8 +19,7 @@ This repository contains the experimental data, analysis code, and detailed meth
 - Jerk minimum trajectory (x, y, t) data
 - Language: MATLAB 
 
-### Methods (`/methods`)
-https://github.com/emiko-sh/eye-hand-coordination-2026/blob/main/methods/supple%20methods.pdf  
+### Methods (`/methods`)  
 A detailed description of the experimental setup, participants, and data processing pipeline.
 
 ---
