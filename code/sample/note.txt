@@ -1,0 +1,6 @@
+the gif name in list.csv is coupled with the pen data csv.
+however, the gif is not identical to the one in the gif files provided in this repository.
+
+The data here is a test data obtained in 2014 in the beginning of the research project of eye - hand coordination.
+
+Emiko Shishido
