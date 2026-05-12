@@ -13,15 +13,13 @@ This repository contains the experimental data, analysis code, and detailed meth
 
 ## Contents
 
-### 1. Data (`/data`)
-- **Raw Data:** 
-- **Format:** 
+### Code (`/code`)
+- Sample Data
+- Analysis scripts used to generate the figures in the paper
+- Jerk minimum trajectory (x, y, t) data
+- Language: MATLAB 
 
-### 2. Code (`/code`)
-- Analysis scripts used to generate the figures in the paper.
-- Language: 
-
-### 3. Methods (`/methods`)
+### Methods (`/methods`)
 https://github.com/emiko-sh/eye-hand-coordination-2026/blob/main/methods/supple%20methods.pdf  
 A detailed description of the experimental setup, participants, and data processing pipeline.
 
