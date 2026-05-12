@@ -1,17 +1,20 @@
-Eye-Hand Coordination Analysis (Tracing Task)
-This repository contains MATLAB source code for analyzing eye-hand coordination during drawing (tracing) tasks, using data from Tobii eye trackers and pen tablets.
+
+## Eye-Hand Coordination Analysis (Tracing Task)  
+Shishido, E. (2026). Beyond Expertise: Stable Individual Differences in Predictive Eye–Hand Coordination. arXiv:2602.07816. https://arxiv.org/abs/2602.07816
+
+This repository contains MATLAB source code for analyzing eye-hand coordination during drawing (tracing) tasks, using data from Tobii eye trackers and pen tablets.  
+
+## Overview
+The program quantifies the relationship between gaze and pen position, calculating metrics such as "Gaze Precedence" (Time/Point) and movement velocity to understand how the gaze guides or follows the hand.
 
 The algorithms are based on the research by Yamasaki et al. (2015), focusing on extracting features of gaze and pen movement, including saccades, fixations, and pursuit movements.
-
-Overview
-The program quantifies the relationship between gaze and pen position, calculating metrics such as "Gaze Precedence" (Time/Point) and movement velocity to understand how the gaze guides or follows the hand.
 
 Reference
 Yamasaki, K., Itoh, T., Itoh, Y., Okazaki, S., Sadato, N., Imoto, K., Shishido, E., and Fukumura, N. (2015).
 Feature extraction of eye-hand coordination in tracing tasks of calligraphers.
 IEICE Tech. Rep., vol. 114, no. 515, NC2014-123, pp. 313–318.
 
-Key Features
+## Key Features
 Data Preprocessing & Coordinate Transformation
 
 Converts pixel coordinates from Tobii and pen tablets into real-world dimensions (mm) based on monitor resolution and aspect ratio.
@@ -60,8 +63,11 @@ Screen Calibration: Adjust the scaling factors (e.g., 0.318, 0.316) in script.m 
 
 Thresholds: Saccade detection thresholds (velocity/distance) may need tuning depending on your sampling rate and task difficulty.
 
+## Citation
+If you use this dataset or code, please cite my paper:  
+Shishido, E. (2026). Beyond Expertise: Stable Individual Differences in Predictive Eye–Hand Coordination. arXiv:2602.07816. https://arxiv.org/abs/2602.07816
 
-### 日本語　Japanese
+# 日本語　Japanese
 Eye-Hand Coordination Analysis (Tracing Task)
 このリポジトリは、Tobiiアイトラッカーとペンタブレットを用いて計測された、描画タスク（なぞり書き）中の視線とペンの動きを解析するためのMATLABソースコードです。
 
@@ -109,3 +115,5 @@ ModelTrajectory_new0803.mat: 比較対象となる理論的なターゲット軌
 
 sample_data/: Tobiiおよびペン入力のサンプルデータ（TSV形式など）。
 
+## 参照
+Shishido, E. (2026). Beyond Expertise: Stable Individual Differences in Predictive Eye–Hand Coordination. arXiv:2602.07816. https://arxiv.org/abs/2602.07816
